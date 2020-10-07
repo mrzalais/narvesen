@@ -20,6 +20,8 @@ class CustomerData
 
         $rows = array_filter((array)explode('|', $content));
         $customers = [];
+        array_pop($rows);
+        
         foreach ($rows as $row) {
             $customerData = explode(',', $row);
             $customers [] = new Customer(

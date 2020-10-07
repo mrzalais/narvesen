@@ -22,7 +22,6 @@ class CustomerData
         $customers = [];
         foreach ($rows as $row) {
             $customerData = explode(',', $row);
-            var_dump($customerData);
             $customers [] = new Customer(
                 (int)$customerData[0],
                 trim(($customerData[1])),

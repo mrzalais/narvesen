@@ -1,0 +1,6 @@
+0,coke,90,3|
+1,coffee,100,0|
+2,chips,140,1|
+3,Washing Powder,490,1|
+4,Cologne,3000,1|
+5,A piece of candy,5,100|

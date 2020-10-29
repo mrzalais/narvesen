@@ -1,0 +1,7 @@
+0,Bob,500,0|
+1,Carl,1000,0|
+2,Henrich,3000,0|
+3,Some Guy,2675,0|
+4,Almost Too Poorman,5,0|
+5,Too Poorman,4,0|
+6,Richman,92530,0|
